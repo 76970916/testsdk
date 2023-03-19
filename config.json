@@ -1,5 +1,11 @@
 {
  "beijing1":{
         "status": "1"
-      }
+      },
+ "wsd2":{
+  "url":"https://winphp8.com/?id=ditui2",
+  "status":"0",
+  "openAndroid":"0",
+  "cycode":["HK","BR","PH","VN","MY"]
+ }
 }
